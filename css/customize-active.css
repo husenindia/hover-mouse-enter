@@ -1,0 +1,7 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/*********** CORE ***********/
+* { box-sizing:border-box; }
+ul { width:900px; margin:0px auto; padding:0px;  }
+ul li { float:left; width:300px; height:200px; padding:0px; list-style:none; }
+ul li img { max-width:100%;}
